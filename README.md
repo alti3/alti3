@@ -6,7 +6,7 @@ I'm Altaher, a software developer with a deep-rooted passion for **aerospace**, 
 
 My professional journey has allowed me to apply these interests in diverse software engineering roles. I have experience in:
 
-*   🚀 Designing and building scalable **backend systems**, including microservices for e-commerce, multi-tenant financial/accounting platforms, and consumer-facing applications.
+*   🚀 Designing and building scalable **backend systems**, including microservices for e-commerce, q-commerce, last-mile delivery logistics, multi-tenant financial/accounting platforms, and consumer-facing applications.
 *   ⚙️ Developing and implementing **optimisation engines**, particularly for real-time matching and route optimisation.
 *   📊 Leveraging **data analysis**, BI, and machine learning for forecasting, pattern discovery, performance analysis, and fraud detection.
 *   ☁️ Working with **cloud platforms** (AWS & Azure) and implementing **DevOps** practices like CI/CD, automation, and infrastructure management.
