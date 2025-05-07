@@ -25,6 +25,7 @@ My professional journey has allowed me to apply these interests in diverse softw
 
 *   🛰️ `stk-mcp`: An MCP server enabling interaction with Ansys/AGI STK simulation software, bridging the gap between simulation and external control/analysis.
 *   🗺️ `python-tercom-demo` & `python-dsmac-demo`: Python demonstrations of classic GPS-denied navigation techniques (Terrain Contour Matching and Digital Scene Matching Area Correlator).
+*   🚀 `missile-proportional-navigation-python`: Python implementations of various missile proportional navigation guidance laws, simulating intercepts in both 2D and 3D space.
 *   ⚙️ `stateless-py`: A versatile Python library for creating finite state machines, inspired by the C# Stateless library.
 *   🗺️ `HexPicker`: An interactive web map application for visualizing and selecting H3 hexagonal geospatial cells.
 
